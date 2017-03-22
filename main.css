@@ -1,4 +1,4 @@
-header {
+.header {
 	background-color: #eebb44;
 	margin-bottom: 40px;
 }
@@ -8,12 +8,12 @@ body {
 	color: #252525
 }
 
-header h1 {
+.header h1 {
 	line-height: 1;
 	margin-bottom: 0;
 }
 
-header p {
+.header p {
 	margin-bottom: 0.5em;
 }
 
