@@ -20,6 +20,7 @@ body {
 .card {
 	border: 1px solid #E5E5E5;
 	margin-bottom: 20px;
+	margin: 5px;
 }
 
 .card-content {
@@ -37,4 +38,8 @@ body {
 
 .card-content p {
 	margin: 0.5em 0;
+}
+
+.card-float {
+	float:left;
 }
